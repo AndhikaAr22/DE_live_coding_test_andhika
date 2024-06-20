@@ -1,0 +1,32 @@
+.env 
+dags/connector/koneksi.py
+dags/data
+dags/__pycache__
+# package
+dags/package/get_data2.py
+dags/package/get_transform.py
+dags/package/load_data.py
+dags/package/package_minio.py
+dags/package/package_spotify.py
+dags/package/insert_data_db.py
+
+
+# dag
+dags/dag_final_project.py
+dags/dag_project_spotify.py
+dags/dag_test.py
+dags/data.csv
+dags/ibm_movie.csv
+dags/minio_test.py
+dags/read_csv.py
+dags/req_quotes.py
+dags/Travel details dataset.csv
+dags/test_de_linkaja.py
+dags/dag_test_de.py
+dags/dag.py
+logs
+requirements.txt
+dags/package
+dags/model
+data
+env
